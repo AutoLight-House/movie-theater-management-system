@@ -205,7 +205,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support and questions:
-- Email: zainqazi987@hotmail.com
 - Create an issue in the repository
 
 ## 🔄 Updates
